@@ -16,8 +16,7 @@ cout << "Ingresar la nota del alumno..>";
 
     if (nota<60)
         {
-            cout<<"Reprobado"<<
-            "\n";
+            cout<<"Reprobado"<<"\n";
     }
     else if (nota<81)
       {
