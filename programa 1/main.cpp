@@ -5,15 +5,16 @@ using namespace std;
 int main()
 {int n1,n2,suma;
 
-    cout << "Ingresar el numero 1...!...>" ;
-    cin>> n1;
+cout<<"Ingresar el numero    " ;
+cin>>n1;
 
-    cout << "Ingresar el numero 2...!...>" ;
-    cin>> n2;
+cout<<"Ingresar el numero   " ;
+cin>>n2;
 
-    suma= n1+n2;
+suma=n1+n2;
 
-    cout<<" LA suma de los numeros es ...:"<<suma<<"\n";
+
+ cout<<"La suma de los numeros es "<<suma<<"\n";
 
     return 0;
 }

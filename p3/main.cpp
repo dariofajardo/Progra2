@@ -10,8 +10,15 @@ double pxh,salario,deduccion,tp;
     cout << "Ingresar las horas...>!" ;
     cin>> horas;
 
-    cout << "Ingresar las horas...>!" ;
-    cin>> salario;
+   if (horas>=40)
+   {
+       pxh=30;
+   }
+
+   else
+   {
+       pxh=10;
+   }
 
     salario = horas * pxh;
 

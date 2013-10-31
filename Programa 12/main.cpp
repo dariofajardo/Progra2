@@ -18,7 +18,7 @@ int main()
     menor=100000;
 
 
-    while (contador<5)
+    while (contador<2)
     {
       cout<<"Ingresar un numero " ;
     cin>> numero;
