@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1383693131 source:c:\users\jose fajardo\desktop\programa 20\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1383693671 source:c:\users\jose fajardo\desktop\programacion 2\programa 20\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
